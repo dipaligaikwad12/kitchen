@@ -1,5 +1,13 @@
 body{
-    background-color: #0f0e17;
+    background-color: #fffffe;
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+    background-color: black;
+    margin: 0px;
+    padding: 20px;
+    height: 200px;
 }
 .bg-light{
    background-color:#ff8906 ;
@@ -33,4 +41,8 @@ body{
     font-size: 20px;
     margin: 10px 20px;
     margin-bottom: 40px;
+}
+.btn:hover{
+    border-radius: 30px;
+    transition: 0.5s;
 }
