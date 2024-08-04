@@ -18,8 +18,11 @@ body{
 .bg-tertary{
    background-color:#e53170 ;
 }
+.paragraph color{
+    color: #a7a9be;
+}
 .button-color{
-    background-color: #ff8906;
+    background-color:#ef412a;
     color: #fffffe;
 }
 .text-heading{
