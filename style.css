@@ -1,0 +1,36 @@
+body{
+    background-color: #0f0e17;
+}
+.bg-light{
+   background-color:#ff8906 ;
+}
+.bg-secondary{
+   background-color: #f25f4c;
+}
+.bg-tertary{
+   background-color:#e53170 ;
+}
+.button-color{
+    background-color: #ff8906;
+    color: #fffffe;
+}
+.text-heading{
+    color: #fffffe;
+    font-size: 50px;
+}
+.text-center{
+    text-align: center;
+}
+.alig-centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 200px;
+    font-size: 20px;
+    margin: 10px 20px;
+    margin-bottom: 40px;
+}
