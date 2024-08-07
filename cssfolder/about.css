@@ -14,3 +14,27 @@
 .num-text{
     margin: 10px 20px;
 }
+.members-card{
+    width: 250px;
+    background-color:wheat;
+    margin: 20px 30px;
+    padding: 10px;
+}
+.member-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 20px 20px;
+}
+.img-name{
+    font-size: 23px;
+    color: black;
+    text-align: center;
+}
+.members-card:hover{
+    cursor: pointer;
+    background-color: #f25f4c;
+    border-radius: 20px;
+    transition: 0.5s;
+}
