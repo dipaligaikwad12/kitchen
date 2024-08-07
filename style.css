@@ -18,6 +18,9 @@ body{
 .bg-tertary{
    background-color:#e53170 ;
 }
+.head-color{
+    color: #f25f4c ;
+}
 .paragraph color{
     color: #a7a9be;
 }
@@ -28,6 +31,9 @@ body{
 .text-heading{
     color: #fffffe;
     font-size: 50px;
+}
+.dispflex{
+    display: flex;
 }
 .text-center{
     text-align: center;
