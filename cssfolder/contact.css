@@ -1,0 +1,41 @@
+.haeding{
+    font-size: 40px;
+    text-align: center;
+}
+.card-container{
+    display: flex;
+    padding: 20px;
+    margin-left: 20px;
+}
+.card-cust{
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: bisque;
+}
+.comma{
+   height: 30px;
+}
+.cust-img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+.card-cust:hover{
+    background-color:  #f25f4c ;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.name{
+    font-size: 20px;
+}
+.head-paragraph{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
+}
+.add{
+    font-size: 25px;
+    color:orangered;
+}
