@@ -1,5 +1,9 @@
-body{
-    background-color: #0f0e17;
-    margin: 0px;
-    padding: 0px;
+.home-flex{
+    padding: 30px;
+}
+.divisn-flex{
+    margin: 20px 40px;
+}
+.image{
+    margin: 10px;
 }

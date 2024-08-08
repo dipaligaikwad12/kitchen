@@ -1,0 +1,40 @@
+.service-card{
+    background-color:#f25f4c;
+    width: 230px;
+    margin: 20px;
+    padding: 20px;
+}
+.service-image{
+    height: 90px;
+    padding: 10px 0px;
+}
+.img-name{
+    font-size: 25px;
+}
+.para{
+    text-align:left;
+}
+.service-card:hover{
+    background-color:bisque;
+    cursor: pointer;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+.form-container{
+    display: flex;
+    justify-content: center;  
+}
+.forn-containt{
+    margin: 0px;
+    margin-left: 20px;
+}
+.box{
+    padding: 5px;
+    margin: 10px;
+  
+}
+.form-text{
+    font-size: 22px;
+    margin-right: 20px;
+    color:maroon;
+}

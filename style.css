@@ -66,3 +66,9 @@ body{
     width: 50px;
     margin: 10px;
 }
+.paragrap-text{
+    text-align: justify;
+    margin-top: 0px;
+    margin-right: 80px;
+    font-size: 20px;
+}
