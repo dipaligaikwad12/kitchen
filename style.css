@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Caveat:wght@400..700&family=Dancing+Script:wght@400..700&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Foldit:wght@100..900&family=Lobster&family=Pacifico&family=Rock+Salt&display=swap');
 body{
     background-color:bisque;
     margin: 0px;
@@ -27,6 +28,7 @@ body{
 .button-color{
     background-color:#ef412a;
     color: #fffffe;
+    font-family: "Dancing Script", cursive;
 }
 .text-heading{
     color: #fffffe;
@@ -44,10 +46,10 @@ body{
     align-items: center;
 }
 .btn{
-    padding: 10px 20px;
+    padding: 5px 10px;
     cursor: pointer;
     width: 200px;
-    font-size: 20px;
+    font-size: 30px;
     margin: 10px 20px;
     margin-bottom: 40px;
 }
@@ -71,4 +73,8 @@ body{
     margin-top: 0px;
     margin-right: 80px;
     font-size: 20px;
+}
+.font{
+    
+    font-family: "Caveat", cursive;
 }
